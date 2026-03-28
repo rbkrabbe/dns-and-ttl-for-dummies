@@ -22,6 +22,7 @@ A comprehensive guide to DNS, TTL, and why your website is still down even thoug
 - [Chapter 10: TTL in Kubernetes — A Special Kind of Pain](chapters/10-ttl-in-kubernetes.md)
 - [Chapter 11: Debugging DNS — It's Always DNS](chapters/11-debugging-dns.md)
 - [Chapter 12: Advanced DNS Topics — For the Truly Masochistic](chapters/12-advanced-dns.md)
+- [Chapter 13: Running DOOM Over DNS — Because Of Course Someone Did This](chapters/13-doom-over-dns.md)
 - [Appendix A: DNS Cheat Sheet](chapters/appendix-a-cheatsheet.md)
 - [Appendix B: Glossary of DNS Terms (and Insults)](chapters/appendix-b-glossary.md)
 
